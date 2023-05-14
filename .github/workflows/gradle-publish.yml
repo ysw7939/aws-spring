@@ -1,7 +1,7 @@
 # main.yml의 최상단입니다.
 #새로 추가된 내용입니다. (11)
 env:
-  S3_BUCKET_NAME: ward-build
+  S3_BUCKET_NAME: aws-spring-de
   PROJECT_NAME: aws-spring
 
 
